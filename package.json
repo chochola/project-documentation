@@ -1,0 +1,25 @@
+{
+  "name": "project-documentation",
+  "version": "1.0.0",
+  "description": "Practice Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chochola/project-documentation.git"
+  },
+  "author": "Sigurd Chochola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chochola/project-documentation/issues"
+  },
+  "homepage": "https://github.com/chochola/project-documentation#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^16.4.0",
+    "socket.io": "^4.1.3"
+  }
+}
