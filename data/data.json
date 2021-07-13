@@ -1,0 +1,12 @@
+[
+    {
+        "kanbanRow": "kanbanToDo",
+        "header": "next row ",
+        "content": "Task in die nächste Spalte verschieben, Problematik: Index vom Task herauslesen und im task speichern um weiterhin darauf zuzugreifen, auch für pomodoro und protokoll notwendig, oder Gesamtstruktur ändern? ",
+        "time": "3600000",
+        "startDate": "04.07.2021",
+        "endDate": "04.07.2021",
+        "tag": "offene Fragen",
+        "id": "1625616550434"
+    }
+]
